@@ -1,0 +1,16 @@
+{
+  "students": [
+    { "id": 1, "name": "John Doe", "mobile": "1234567890", "email": "john@example.com", "class_n": "10" },
+    { "id": 2, "name": "Jane Smith", "mobile": "0987654321", "email": "jane@example.com", "class_n": "9" },
+    { "id": 3, "name": "Alice Johnson", "mobile": "1112223333", "email": "alice@example.com", "class_n": "8" },
+    { "id": 4, "name": "Bob Brown", "mobile": "2223334444", "email": "bob@example.com", "class_n": "7" },
+    { "id": 5, "name": "Charlie Davis", "mobile": "3334445555", "email": "charlie@example.com", "class_n": "10" },
+    { "id": 6, "name": "Diana Evans", "mobile": "4445556666", "email": "diana@example.com", "class_n": "6" },
+    { "id": 7, "name": "Evan Garcia", "mobile": "5556667777", "email": "evan@example.com", "class_n": "5" },
+    { "id": 8, "name": "Fiona Harris", "mobile": "6667778888", "email": "fiona@example.com", "class_n": "8" },
+    { "id": 9, "name": "George Ingram", "mobile": "7778889999", "email": "george@example.com", "class_n": "9" },
+    { "id": 10, "name": "Hannah Jackson", "mobile": "8889990000", "email": "hannah@example.com", "class_n": "10" },
+    { "id": 11, "name": "Ian King", "mobile": "9990001111", "email": "ian@example.com", "class_n": "7" },
+    { "id": 12, "name": "Julia Lewis", "mobile": "0001112222", "email": "julia@example.com", "class_n": "6" }
+  ]
+}
